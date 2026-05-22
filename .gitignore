@@ -1,0 +1,33 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+.Python
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Output and generated files
+output/
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+__MACOSX/

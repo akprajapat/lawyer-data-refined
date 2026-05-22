@@ -1,0 +1,14 @@
+# Entity Resolution Pipeline — Python dependencies
+# Install with: pip install -r requirements.txt
+#
+# Note: rapidfuzz and jellyfish are listed as optional enhancements.
+# The pipeline ships its own Soundex implementation and uses stdlib difflib,
+# so both are optional. If you install them the pipeline will still run
+# (it doesn't import them); they are noted here for future enhancement.
+
+pandas>=1.5.0
+networkx>=2.8.0
+
+# Optional (not required — pipeline implements equivalents internally)
+# rapidfuzz>=3.0.0      # faster fuzzy matching (drop-in improvement)
+# jellyfish>=0.10.0     # additional phonetic algorithms (Metaphone, NYSIIS)
