@@ -1,0 +1,21 @@
+cluster_id,canonical_name,inferred_designation,name_selection_reason,member_count,unique_raw_names,unique_cases,all_raw_variants
+2,P. Vishwanatha Sheety,SENIOR,most_frequent,67,8,63,P. V. Shetty | P. Vishwanath Shetty | P. Vishwanatha Setty | P. Vishwanatha Sheety | P. Vishwanatha Shetty | P. Vishwanathan Shetty | P. Viswanatha Shetty | P. v. Vishwanatha Shetty
+10,Siddharth S. Chapalgoankar,AOR,most_frequent,29,6,29,Siddharth Chapalgaokar | Siddharth S. Chapalganonkar | Siddharth S. Chapalgaokar | Siddharth S. Chapalgaonkar | Siddharth S. Chapalgaorkar | Siddharth S. Chapalgoankar
+11,R. Anand Padmanabhan,AOR,registry(sim=1.00),67,12,64,R Anand Padmanaban | R Anand Padmanabha | R Anand Padmanabhan Padmanabhan | R. Ananad Padmanabhan | R. Anand Padmanabham | R. Anand Padmanabhan | R. Anand Padmanabhavan | R. Anand Padmanabhgan | R. Anand Padmanadhan | R. Anand Padmananham | R. Anand Padmnanabhan | R. Anand Padnamabhan
+13,M. Chandrakanth Reddy,ADVOCATE,most_frequent,54,8,52,M. Chandankanth Reddy | M. Chandrakant Reddy | M. Chandrakanta Reddy | M. Chandrakanth Reddy | M. Chandrakantn Reddy | M. Chandrakath Reddy | M. Chandrakhanth Reddy | M. Cnahdrakant Reddy
+14,Naman Vashishtha,ADVOCATE,most_frequent,17,6,17,Naman Vashishtha | Naman Vashistha | Naman Vashisththa | Naman Vasishta | Naman Vasishtha | Naman Vishastha
+15,Abhinav Kumar Srivastava,ADVOCATE,most_frequent,34,8,34,Abhinav Kumar Shrivastava | Abhinav Kumar Srivastava | Abhinav Sharivastava | Abhinav Shrivasava | Abhinav Shrivastav | Abhinav Shrivastava | Abhinav Srivastav | Ahinav Shrivastava
+20,Kynphamlin V Kharlyngdoh,ADVOCATE,most_frequent,63,6,61,K. V. Kharlyngdoh | K. v. Kharlyngdog | Kynpham V. Karlyngdoh | Kynpham V. Kharlyndoh | Kynpham V. Kharlyngdoh | Kynphamlin V Kharlyngdoh
+26,N. Venkatraman,AOR,most_frequent,41,7,41,N V Venkataraman | N Venkataraman | N Venkatrama | N Venkatramnan | N. Venkataram | N. Venkataraman | N. Venkatraman
+30,Mukul Rohatgi,SENIOR,most_frequent,35,6,34,Mokul Rohatgi | Mukhul Rohatgi | Mukul Roahtagi | Mukul Rohatagi | Mukul Rohatgi | Mukul Rohtagi
+33,Musunuri Satyanarayana,AOR,most_frequent,75,8,74,M Sathyanaryanan | M. Sathiyanarayana | M. Sathyanarayaman | M. Sathyanarayana | M. Sathyanarayanan | M. Satyanarayana | M. Satyanarayanan | Musunuri Satyanarayana
+35,V. Chittambaresh,ADVOCATE,most_frequent,76,6,75,V Chithambres | V. Chidambaresh | V. Chitambaresh | V. Chithambaresh | V. Chithembaresh | V. Chittambaresh
+38,K. Parmeswaran,ADVOCATE,most_frequent,43,6,40,K Parmeshw | K. PARMESHWAR | K. Parmeshwaram | K. Parmeshwra | K. Parmeswaran | K. parmeswar
+43,Sughosh Subramanayam,ADVOCATE,most_frequent,37,6,37,Subodh Subramaniyam | Sughosgh Subramaniyam | Sughosh Subramanayam | Sughosh Subramaniyam | Sughosh Subramayam | Sughosh Subranmayam
+46,Rakesh Agarwal,ADVOCATE,most_frequent,57,6,56,Rakesh Agarwal | Rakesh Agarwala | Rakesh Aggarwal | Rakesh Aggarwall | Rakesh Aggrawal | Rakesh Agrwal
+54,Gopal Sankaranarayanan,SENIOR,most_frequent,37,15,37,Gopal Sankaranarayanam | Gopal Sankaranarayanan | Gopal Sankaranarayananan | Gopal Sankaranayanans | Gopal Sankaranayayanan | Gopal Sankararayanan | Gopal Sankarayanan | Gopal Sankarnararayanan | Gopal Sankarnarayanan | Gopal Sankarnarayananan | Gopal Sankarnaraynan | Gopal Shankaranarayan | Gopal Shankaranarayanan | Gopal Shankranarayanan | Gopal Snakaranarayana
+61,Akshay Amritanshu,AOR,most_frequent,65,6,64,Akshay Amritanshu | Akshay Amritansu | Akshay Amritranshu | Akshay Amritsanshu | Akshway Amritanshu | Askhay Amritanshu
+74,Prateek K Chaddha,AOR,registry(sim=1.00),58,6,58,Prateek Chada | Prateek Chadda | Prateek Chaddha | Prateek K Chaddha | Prateek K Chadha | Prateek Krishna Chadha
+76,Rajan Kumar Chourasia,AOR,most_frequent,58,12,57,Raja Kumar Chourasia | Rajan K. Chourasia | Rajan Kmumar Chourasia | Rajan Kr. Chaurasia | Rajan Kumar Chaurasia | Rajan Kumar Chouraisa | Rajan Kumar Chourasaia | Rajan Kumar Chourasia | Rajan Kumar Chourasiya | Rajan Kumar Chourazia | Rajan Kumat Chourasia | Rajan Mumar Chourasiya
+109,A. Sirajudeen,AOR,most_frequent,18,6,18,A Sirajhudeen | A. Shirajudeen | A. Siraajuddin | A. Sirajudden | A. Sirajudeen | A. Sirazudeen
+129,Viraj Mahavir Parakh,AOR,most_frequent,27,6,27,Viraj M. Parakah | Viraj M. Parakh | Viraj M. Parekh | Viraj Mahavir Parakh | Viraj Parakh | Viraj Parikh

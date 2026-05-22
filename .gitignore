@@ -23,7 +23,6 @@ ENV/
 *~
 
 # Output and generated files
-output/
 *.zip
 
 # OS files
